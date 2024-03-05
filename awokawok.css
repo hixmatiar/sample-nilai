@@ -1,0 +1,30 @@
+body {
+    background-color: antiquewhite;
+}
+th, td {
+    border-radius: 10px;
+}
+th, td {
+    border: 1px solid black
+}
+td:nth-child(even) {
+    background-color: azure;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+h3 {
+    color: orange;
+    text-align: center;
+}
+footer {
+    background-color: aquamarine;
+}
+p {
+    box-sizing: 20px;
+}
